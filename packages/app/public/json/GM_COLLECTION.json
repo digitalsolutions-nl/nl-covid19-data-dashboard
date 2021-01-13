@@ -1,0 +1,4604 @@
+{
+  "last_generated": "1610375279",
+  "proto_name": "GM_COLLECTION",
+  "name": "GM_COLLECTION",
+  "code": "GM_COLLECTION",
+  "hospital_nice": [
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0003",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0010",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0014",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0024",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0034",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0037",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0047",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0050",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0059",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0060",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0072",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0074",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0080",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0085",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0086",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0088",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0090",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0093",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0096",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0098",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0106",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0109",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0114",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0118",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0119",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0141",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0147",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0148",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0150",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0153",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0158",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0160",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0163",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0164",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0166",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0168",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0171",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0173",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0175",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0177",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0180",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0183",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0184",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0189",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0193",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0197",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0200",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0202",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0203",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0209",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0213",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0214",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0216",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0221",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0222",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0225",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0226",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0228",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0230",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0232",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0233",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0243",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0244",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0246",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0252",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0262",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0263",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0267",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0268",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0269",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0273",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0274",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0275",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0277",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0279",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0281",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0285",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0289",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0293",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0294",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0296",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0297",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0299",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0301",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0302",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0303",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0307",
+      "admissions_moving_average": 1.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0308",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0310",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0312",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0313",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0317",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0321",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0327",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0331",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0335",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0339",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0340",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0342",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0344",
+      "admissions_moving_average": 1.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0345",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0351",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0352",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0353",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0355",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0356",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0358",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0361",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0362",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0363",
+      "admissions_moving_average": 4.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0370",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0373",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0375",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0376",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0377",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0383",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0384",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0385",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0388",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0392",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0394",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0396",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0397",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0398",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0399",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0400",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0402",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0405",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0406",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0415",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0416",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0417",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0420",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0431",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0432",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0437",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0439",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0441",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0448",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0450",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0451",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0453",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0457",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0473",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0479",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0482",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0484",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0489",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0498",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0501",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0502",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0503",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0505",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0512",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0513",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0518",
+      "admissions_moving_average": 4.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0523",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0530",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0531",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0532",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0534",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0537",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0542",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0546",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0547",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0553",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0556",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0569",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0575",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0579",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0589",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0590",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0597",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0599",
+      "admissions_moving_average": 7.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0603",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0606",
+      "admissions_moving_average": 2.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0610",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0613",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0614",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0622",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0626",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0627",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0629",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0632",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0637",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0638",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0642",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0654",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0664",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0668",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0677",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0678",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0687",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0703",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0715",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0716",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0717",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0718",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0736",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0737",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0743",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0744",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0748",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0753",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0755",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0756",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0757",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0758",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0762",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0765",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0766",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0770",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0772",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0777",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0779",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0784",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0785",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0786",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0788",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0794",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0796",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0797",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0798",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0809",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0815",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0820",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0823",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0824",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0826",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0828",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0840",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0845",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0847",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0848",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0851",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0852",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0855",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0856",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0858",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0861",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0865",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0866",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0867",
+      "admissions_moving_average": 2.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0873",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0879",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0880",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0882",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0888",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0889",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0893",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0899",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0907",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0917",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0928",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0935",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0938",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0944",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0946",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0957",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0965",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0971",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0981",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0983",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0984",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0986",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0988",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0994",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM0995",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1507",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1509",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1525",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1581",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1586",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1598",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1621",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1640",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1641",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1652",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1655",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1658",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1659",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1667",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1669",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1674",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1676",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1680",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1681",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1684",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1685",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1690",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1695",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1696",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1699",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1700",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1701",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1702",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1705",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1706",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1708",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1709",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1711",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1714",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1719",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1721",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1723",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1724",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1728",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1729",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1730",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1731",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1734",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1735",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1740",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1742",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1771",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1773",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1774",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1783",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1842",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1859",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1876",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1883",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1884",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1891",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1892",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1894",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1895",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1896",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1900",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1901",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1903",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1904",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1911",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1916",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1924",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1926",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1930",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1931",
+      "admissions_moving_average": 1.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1940",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1942",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1945",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1948",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1949",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1950",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1952",
+      "admissions_moving_average": 0.7,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1954",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1955",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1959",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1960",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1961",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1963",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1966",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1969",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1970",
+      "admissions_moving_average": 0.3,
+      "date_of_insertion_unix": 1606310727
+    },
+    {
+      "date_unix": 1606262400,
+      "gmcode": "GM1978",
+      "admissions_moving_average": 0.0,
+      "date_of_insertion_unix": 1606310727
+    }
+  ],
+  "tested_overall": [
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0014",
+      "infected_per_100k": 16.3,
+      "infected": 38,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0034",
+      "infected_per_100k": 35.9,
+      "infected": 76,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0037",
+      "infected_per_100k": 34.7,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0047",
+      "infected_per_100k": 62.1,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0050",
+      "infected_per_100k": 30.9,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0059",
+      "infected_per_100k": 82.6,
+      "infected": 23,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0060",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0072",
+      "infected_per_100k": 6.4,
+      "infected": 1,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0074",
+      "infected_per_100k": 27.7,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0080",
+      "infected_per_100k": 19.3,
+      "infected": 24,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0085",
+      "infected_per_100k": 15.7,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0086",
+      "infected_per_100k": 40.4,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0088",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0090",
+      "infected_per_100k": 42.7,
+      "infected": 24,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0093",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0096",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0098",
+      "infected_per_100k": 7.7,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0106",
+      "infected_per_100k": 24.8,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0109",
+      "infected_per_100k": 56.7,
+      "infected": 20,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0114",
+      "infected_per_100k": 33.6,
+      "infected": 36,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0118",
+      "infected_per_100k": 50.3,
+      "infected": 28,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0119",
+      "infected_per_100k": 32.4,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0141",
+      "infected_per_100k": 34.2,
+      "infected": 25,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0147",
+      "infected_per_100k": 85.8,
+      "infected": 20,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0148",
+      "infected_per_100k": 38.5,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0150",
+      "infected_per_100k": 26.8,
+      "infected": 27,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0153",
+      "infected_per_100k": 30.1,
+      "infected": 48,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0158",
+      "infected_per_100k": 49.4,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0160",
+      "infected_per_100k": 83.7,
+      "infected": 51,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0163",
+      "infected_per_100k": 41.8,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0164",
+      "infected_per_100k": 45.6,
+      "infected": 37,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0166",
+      "infected_per_100k": 12.9,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0168",
+      "infected_per_100k": 70.5,
+      "infected": 16,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0171",
+      "infected_per_100k": 46.5,
+      "infected": 22,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0173",
+      "infected_per_100k": 25.1,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0175",
+      "infected_per_100k": 44.4,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0177",
+      "infected_per_100k": 55.7,
+      "infected": 21,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0180",
+      "infected_per_100k": 46.7,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0183",
+      "infected_per_100k": 61.1,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0184",
+      "infected_per_100k": 28.5,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0189",
+      "infected_per_100k": 32.7,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0193",
+      "infected_per_100k": 15.5,
+      "infected": 20,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0197",
+      "infected_per_100k": 36.9,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0200",
+      "infected_per_100k": 24.4,
+      "infected": 40,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0202",
+      "infected_per_100k": 37.8,
+      "infected": 61,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0203",
+      "infected_per_100k": 108.3,
+      "infected": 64,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0209",
+      "infected_per_100k": 38.6,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0213",
+      "infected_per_100k": 19.3,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0214",
+      "infected_per_100k": 26.2,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0216",
+      "infected_per_100k": 48.4,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0221",
+      "infected_per_100k": 45.1,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0222",
+      "infected_per_100k": 22.4,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0225",
+      "infected_per_100k": 31.7,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0226",
+      "infected_per_100k": 15.9,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0228",
+      "infected_per_100k": 58.9,
+      "infected": 69,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0230",
+      "infected_per_100k": 38.9,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0232",
+      "infected_per_100k": 18.1,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0233",
+      "infected_per_100k": 25.9,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0243",
+      "infected_per_100k": 20.7,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0244",
+      "infected_per_100k": 24.6,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0246",
+      "infected_per_100k": 5.4,
+      "infected": 1,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0252",
+      "infected_per_100k": 18.2,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0262",
+      "infected_per_100k": 5.9,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0263",
+      "infected_per_100k": 43.9,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0267",
+      "infected_per_100k": 118.1,
+      "infected": 51,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0268",
+      "infected_per_100k": 27.6,
+      "infected": 49,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0269",
+      "infected_per_100k": 25.4,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0273",
+      "infected_per_100k": 82.9,
+      "infected": 20,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0274",
+      "infected_per_100k": 25.5,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0275",
+      "infected_per_100k": 34.3,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0277",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0279",
+      "infected_per_100k": 40.5,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0281",
+      "infected_per_100k": 42.7,
+      "infected": 18,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0285",
+      "infected_per_100k": 57.0,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0289",
+      "infected_per_100k": 37.8,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0293",
+      "infected_per_100k": 20.0,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0294",
+      "infected_per_100k": 34.7,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0296",
+      "infected_per_100k": 14.6,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0297",
+      "infected_per_100k": 31.2,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0299",
+      "infected_per_100k": 29.7,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0301",
+      "infected_per_100k": 14.6,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0302",
+      "infected_per_100k": 25.1,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0303",
+      "infected_per_100k": 33.7,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0307",
+      "infected_per_100k": 24.2,
+      "infected": 38,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0308",
+      "infected_per_100k": 40.2,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0310",
+      "infected_per_100k": 34.8,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0312",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0313",
+      "infected_per_100k": 86.9,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0317",
+      "infected_per_100k": 21.6,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0321",
+      "infected_per_100k": 23.9,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0327",
+      "infected_per_100k": 16.4,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0331",
+      "infected_per_100k": 13.8,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0335",
+      "infected_per_100k": 14.4,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0339",
+      "infected_per_100k": 36.7,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0340",
+      "infected_per_100k": 34.8,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0342",
+      "infected_per_100k": 40.8,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0344",
+      "infected_per_100k": 22.4,
+      "infected": 80,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0345",
+      "infected_per_100k": 28.6,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0351",
+      "infected_per_100k": 29.9,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0352",
+      "infected_per_100k": 25.1,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0353",
+      "infected_per_100k": 14.7,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0355",
+      "infected_per_100k": 15.4,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0356",
+      "infected_per_100k": 14.2,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0358",
+      "infected_per_100k": 9.4,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0361",
+      "infected_per_100k": 19.2,
+      "infected": 21,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0362",
+      "infected_per_100k": 27.3,
+      "infected": 25,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0363",
+      "infected_per_100k": 22.7,
+      "infected": 198,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0370",
+      "infected_per_100k": 29.9,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0373",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0375",
+      "infected_per_100k": 31.2,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0376",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0377",
+      "infected_per_100k": 29.7,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0383",
+      "infected_per_100k": 19.5,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0384",
+      "infected_per_100k": 13.0,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0385",
+      "infected_per_100k": 110.5,
+      "infected": 40,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0388",
+      "infected_per_100k": 26.9,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0392",
+      "infected_per_100k": 21.5,
+      "infected": 35,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0394",
+      "infected_per_100k": 16.0,
+      "infected": 25,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0396",
+      "infected_per_100k": 30.6,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0397",
+      "infected_per_100k": 7.3,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0398",
+      "infected_per_100k": 26.0,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0399",
+      "infected_per_100k": 25.0,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0400",
+      "infected_per_100k": 49.7,
+      "infected": 28,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0402",
+      "infected_per_100k": 17.6,
+      "infected": 16,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0405",
+      "infected_per_100k": 57.3,
+      "infected": 42,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0406",
+      "infected_per_100k": 29.1,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0415",
+      "infected_per_100k": 17.4,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0416",
+      "infected_per_100k": 28.4,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0417",
+      "infected_per_100k": 35.5,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0420",
+      "infected_per_100k": 62.1,
+      "infected": 28,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0431",
+      "infected_per_100k": 10.3,
+      "infected": 1,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0432",
+      "infected_per_100k": 76.0,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0437",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0439",
+      "infected_per_100k": 32.0,
+      "infected": 26,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0441",
+      "infected_per_100k": 53.8,
+      "infected": 25,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0448",
+      "infected_per_100k": 7.4,
+      "infected": 1,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0450",
+      "infected_per_100k": 22.0,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0451",
+      "infected_per_100k": 10.2,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0453",
+      "infected_per_100k": 30.6,
+      "infected": 21,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0457",
+      "infected_per_100k": 10.1,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0473",
+      "infected_per_100k": 17.5,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0479",
+      "infected_per_100k": 23.6,
+      "infected": 37,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0482",
+      "infected_per_100k": 14.9,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0484",
+      "infected_per_100k": 17.0,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0489",
+      "infected_per_100k": 22.6,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0498",
+      "infected_per_100k": 55.8,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0501",
+      "infected_per_100k": 23.2,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0502",
+      "infected_per_100k": 44.7,
+      "infected": 30,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0503",
+      "infected_per_100k": 12.5,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0505",
+      "infected_per_100k": 15.1,
+      "infected": 18,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0512",
+      "infected_per_100k": 37.8,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0513",
+      "infected_per_100k": 19.1,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0518",
+      "infected_per_100k": 22.2,
+      "infected": 121,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0523",
+      "infected_per_100k": 76.5,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0530",
+      "infected_per_100k": 29.9,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0531",
+      "infected_per_100k": 19.2,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0532",
+      "infected_per_100k": 46.0,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0534",
+      "infected_per_100k": 22.5,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0537",
+      "infected_per_100k": 44.1,
+      "infected": 29,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0542",
+      "infected_per_100k": 54.2,
+      "infected": 16,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0546",
+      "infected_per_100k": 8.0,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0547",
+      "infected_per_100k": 14.8,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0553",
+      "infected_per_100k": 26.1,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0556",
+      "infected_per_100k": 24.1,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0569",
+      "infected_per_100k": 20.8,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0575",
+      "infected_per_100k": 27.6,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0579",
+      "infected_per_100k": 20.1,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0589",
+      "infected_per_100k": 19.6,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0590",
+      "infected_per_100k": 9.3,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0597",
+      "infected_per_100k": 36.8,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0599",
+      "infected_per_100k": 22.4,
+      "infected": 146,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0603",
+      "infected_per_100k": 23.9,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0606",
+      "infected_per_100k": 24.1,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0610",
+      "infected_per_100k": 27.8,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0613",
+      "infected_per_100k": 39.1,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0614",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0622",
+      "infected_per_100k": 31.3,
+      "infected": 23,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0626",
+      "infected_per_100k": 3.9,
+      "infected": 1,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0627",
+      "infected_per_100k": 17.1,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0629",
+      "infected_per_100k": 7.6,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0632",
+      "infected_per_100k": 15.3,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0637",
+      "infected_per_100k": 10.4,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0638",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0642",
+      "infected_per_100k": 20.1,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0654",
+      "infected_per_100k": 30.8,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0664",
+      "infected_per_100k": 39.4,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0668",
+      "infected_per_100k": 72.4,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0677",
+      "infected_per_100k": 36.3,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0678",
+      "infected_per_100k": 23.6,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0687",
+      "infected_per_100k": 36.9,
+      "infected": 18,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0703",
+      "infected_per_100k": 70.4,
+      "infected": 16,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0715",
+      "infected_per_100k": 33.1,
+      "infected": 18,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0716",
+      "infected_per_100k": 31.1,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0717",
+      "infected_per_100k": 4.6,
+      "infected": 1,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0718",
+      "infected_per_100k": 20.3,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0736",
+      "infected_per_100k": 15.7,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0737",
+      "infected_per_100k": 31.2,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0743",
+      "infected_per_100k": 59.8,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0744",
+      "infected_per_100k": 58.3,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0748",
+      "infected_per_100k": 13.3,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0753",
+      "infected_per_100k": 53.4,
+      "infected": 16,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0755",
+      "infected_per_100k": 37.1,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0756",
+      "infected_per_100k": 37.5,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0757",
+      "infected_per_100k": 30.3,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0758",
+      "infected_per_100k": 19.6,
+      "infected": 36,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0762",
+      "infected_per_100k": 43.1,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0765",
+      "infected_per_100k": 49.2,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0766",
+      "infected_per_100k": 53.4,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0770",
+      "infected_per_100k": 46.6,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0772",
+      "infected_per_100k": 32.9,
+      "infected": 77,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0777",
+      "infected_per_100k": 11.4,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0779",
+      "infected_per_100k": 51.1,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0784",
+      "infected_per_100k": 18.9,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0785",
+      "infected_per_100k": 25.1,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0786",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0794",
+      "infected_per_100k": 33.5,
+      "infected": 31,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0796",
+      "infected_per_100k": 22.6,
+      "infected": 35,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0797",
+      "infected_per_100k": 11.2,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0798",
+      "infected_per_100k": 19.3,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0809",
+      "infected_per_100k": 34.2,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0815",
+      "infected_per_100k": 82.3,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0820",
+      "infected_per_100k": 42.8,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0823",
+      "infected_per_100k": 21.4,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0824",
+      "infected_per_100k": 40.5,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0826",
+      "infected_per_100k": 26.8,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0828",
+      "infected_per_100k": 26.1,
+      "infected": 24,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0840",
+      "infected_per_100k": 21.9,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0845",
+      "infected_per_100k": 34.2,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0847",
+      "infected_per_100k": 20.7,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0848",
+      "infected_per_100k": 34.6,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0851",
+      "infected_per_100k": 4.1,
+      "infected": 1,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0852",
+      "infected_per_100k": 28.7,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0855",
+      "infected_per_100k": 23.1,
+      "infected": 51,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0856",
+      "infected_per_100k": 30.9,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0858",
+      "infected_per_100k": 70.5,
+      "infected": 22,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0861",
+      "infected_per_100k": 44.0,
+      "infected": 20,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0865",
+      "infected_per_100k": 19.1,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0866",
+      "infected_per_100k": 22.9,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0867",
+      "infected_per_100k": 41.1,
+      "infected": 20,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0873",
+      "infected_per_100k": 36.6,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0879",
+      "infected_per_100k": 22.9,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0880",
+      "infected_per_100k": 18.4,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0882",
+      "infected_per_100k": 56.1,
+      "infected": 21,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0888",
+      "infected_per_100k": 56.7,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0889",
+      "infected_per_100k": 74.2,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0893",
+      "infected_per_100k": 160.5,
+      "infected": 21,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0899",
+      "infected_per_100k": 18.0,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0907",
+      "infected_per_100k": 65.0,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0917",
+      "infected_per_100k": 34.4,
+      "infected": 30,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0928",
+      "infected_per_100k": 52.5,
+      "infected": 24,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0935",
+      "infected_per_100k": 20.6,
+      "infected": 25,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0938",
+      "infected_per_100k": 15.9,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0944",
+      "infected_per_100k": 63.7,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0946",
+      "infected_per_100k": 141.0,
+      "infected": 24,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0957",
+      "infected_per_100k": 73.8,
+      "infected": 43,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0965",
+      "infected_per_100k": 56.8,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0971",
+      "infected_per_100k": 48.0,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0981",
+      "infected_per_100k": 39.6,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0983",
+      "infected_per_100k": 79.6,
+      "infected": 81,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0984",
+      "infected_per_100k": 91.7,
+      "infected": 40,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0986",
+      "infected_per_100k": 64.1,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0988",
+      "infected_per_100k": 131.7,
+      "infected": 66,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0994",
+      "infected_per_100k": 24.4,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM0995",
+      "infected_per_100k": 22.9,
+      "infected": 18,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1507",
+      "infected_per_100k": 101.3,
+      "infected": 43,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1509",
+      "infected_per_100k": 25.4,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1525",
+      "infected_per_100k": 16.0,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1581",
+      "infected_per_100k": 26.2,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1586",
+      "infected_per_100k": 16.9,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1598",
+      "infected_per_100k": 70.3,
+      "infected": 16,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1621",
+      "infected_per_100k": 32.1,
+      "infected": 20,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1640",
+      "infected_per_100k": 108.7,
+      "infected": 39,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1641",
+      "infected_per_100k": 133.5,
+      "infected": 32,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1652",
+      "infected_per_100k": 16.3,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1655",
+      "infected_per_100k": 36.3,
+      "infected": 11,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1658",
+      "infected_per_100k": 37.1,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1659",
+      "infected_per_100k": 44.4,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1667",
+      "infected_per_100k": 53.4,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1669",
+      "infected_per_100k": 111.8,
+      "infected": 23,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1674",
+      "infected_per_100k": 18.1,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1676",
+      "infected_per_100k": 8.9,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1680",
+      "infected_per_100k": 15.7,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1681",
+      "infected_per_100k": 31.3,
+      "infected": 8,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1684",
+      "infected_per_100k": 23.9,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1685",
+      "infected_per_100k": 25.4,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1690",
+      "infected_per_100k": 61.7,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1695",
+      "infected_per_100k": 67.6,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1696",
+      "infected_per_100k": 28.7,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1699",
+      "infected_per_100k": 12.8,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1700",
+      "infected_per_100k": 50.4,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1701",
+      "infected_per_100k": 15.4,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1702",
+      "infected_per_100k": 60.0,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1705",
+      "infected_per_100k": 30.0,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1706",
+      "infected_per_100k": 66.2,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1708",
+      "infected_per_100k": 13.6,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1709",
+      "infected_per_100k": 16.2,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1711",
+      "infected_per_100k": 120.2,
+      "infected": 38,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1714",
+      "infected_per_100k": 21.5,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1719",
+      "infected_per_100k": 55.0,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1721",
+      "infected_per_100k": 9.6,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1723",
+      "infected_per_100k": 0.0,
+      "infected": 0,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1724",
+      "infected_per_100k": 48.3,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1728",
+      "infected_per_100k": 63.8,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1729",
+      "infected_per_100k": 21.2,
+      "infected": 3,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1730",
+      "infected_per_100k": 41.3,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1731",
+      "infected_per_100k": 42.2,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1734",
+      "infected_per_100k": 27.1,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1735",
+      "infected_per_100k": 51.4,
+      "infected": 18,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1740",
+      "infected_per_100k": 24.7,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1742",
+      "infected_per_100k": 44.5,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1771",
+      "infected_per_100k": 55.4,
+      "infected": 22,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1773",
+      "infected_per_100k": 11.0,
+      "infected": 2,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1774",
+      "infected_per_100k": 52.9,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1783",
+      "infected_per_100k": 23.6,
+      "infected": 26,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1842",
+      "infected_per_100k": 31.0,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1859",
+      "infected_per_100k": 38.9,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1876",
+      "infected_per_100k": 16.6,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1883",
+      "infected_per_100k": 26.0,
+      "infected": 24,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1884",
+      "infected_per_100k": 18.3,
+      "infected": 5,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1891",
+      "infected_per_100k": 37.0,
+      "infected": 7,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1892",
+      "infected_per_100k": 34.2,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1894",
+      "infected_per_100k": 32.2,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1895",
+      "infected_per_100k": 47.1,
+      "infected": 18,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1896",
+      "infected_per_100k": 17.6,
+      "infected": 4,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1900",
+      "infected_per_100k": 37.8,
+      "infected": 34,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1901",
+      "infected_per_100k": 37.3,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1903",
+      "infected_per_100k": 50.5,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1904",
+      "infected_per_100k": 29.3,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1911",
+      "infected_per_100k": 57.8,
+      "infected": 28,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1916",
+      "infected_per_100k": 17.0,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1924",
+      "infected_per_100k": 28.0,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1926",
+      "infected_per_100k": 21.7,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1930",
+      "infected_per_100k": 19.9,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1931",
+      "infected_per_100k": 26.6,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1940",
+      "infected_per_100k": 17.5,
+      "infected": 9,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1942",
+      "infected_per_100k": 25.8,
+      "infected": 15,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1945",
+      "infected_per_100k": 17.1,
+      "infected": 6,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1948",
+      "infected_per_100k": 41.9,
+      "infected": 34,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1949",
+      "infected_per_100k": 30.4,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1950",
+      "infected_per_100k": 50.5,
+      "infected": 13,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1952",
+      "infected_per_100k": 37.8,
+      "infected": 23,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1954",
+      "infected_per_100k": 52.9,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1955",
+      "infected_per_100k": 52.8,
+      "infected": 19,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1959",
+      "infected_per_100k": 66.1,
+      "infected": 37,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1960",
+      "infected_per_100k": 23.5,
+      "infected": 12,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1961",
+      "infected_per_100k": 29.9,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1963",
+      "infected_per_100k": 40.0,
+      "infected": 35,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1966",
+      "infected_per_100k": 35.6,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1969",
+      "infected_per_100k": 15.8,
+      "infected": 10,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1970",
+      "infected_per_100k": 37.6,
+      "infected": 17,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1978",
+      "infected_per_100k": 31.9,
+      "infected": 14,
+      "date_of_insertion_unix": 1610371741
+    },
+    {
+      "date_unix": 1610323200,
+      "gmcode": "GM1979",
+      "infected_per_100k": 50.2,
+      "infected": 23,
+      "date_of_insertion_unix": 1610371741
+    }
+  ]
+}
