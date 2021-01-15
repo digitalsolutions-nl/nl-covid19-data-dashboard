@@ -1,5 +1,5 @@
 # Docker
-# Build a Docker image 
+# Build and push an image to Azure Container Registry
 # https://docs.microsoft.com/azure/devops/pipelines/languages/docker
 
 trigger:
@@ -9,7 +9,15 @@ resources:
 - repo: self
 
 variables:
+  # Container registry service connection established during pipeline creation
+  dockerRegistryServiceConnection: '4a5c5332-569e-4b6d-8376-c3d972e67bc9'
+  imageRepository: 'digitalsolutionsnlnlcoviddatadashboard'
+  containerRegistry: 'kpmgnlbigvwscovid19fewet01acr.azurecr.io'
+  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
   tag: '$(Build.BuildId)'
+  
+  # Agent VM image name
+  vmImageName: 'ubuntu-latest'
 
 stages:
 - stage: Build
@@ -27,3 +35,12 @@ stages:
         Dockerfile: '**/Dockerfile'
         tags: '$(tag)'
         arguments: '--build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask --network=host'
+    - task: Docker@2
+      displayName: Build and push an image to container registry
+      inputs:
+        command: buildAndPush
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+        containerRegistry: $(dockerRegistryServiceConnection)
+        tags: |
+          $(tag)
