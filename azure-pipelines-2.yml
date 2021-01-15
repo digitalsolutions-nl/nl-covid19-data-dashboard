@@ -32,6 +32,7 @@ stages:
       displayName: Build an image
       inputs:
         command: 'build'
+        containerRegistry: '$(dockerRegistryServiceConnection)'
         Dockerfile: '**/Dockerfile'
         tags: '$(tag)'
         arguments: '--build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask --network=host'
@@ -41,3 +42,4 @@ stages:
         containerRegistry: '$(dockerRegistryServiceConnection)'
         repository: '$(imageRepository)'
         command: 'push'
+        tags: '$(tag)'
