@@ -11,8 +11,4 @@ jobs:
 - job: BuildImage
   steps:
    - script: |
-       docker build 
-          --build-arg CD_TAG="latest"
-          --build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask
-          --network=host
-          -f Dockerfile
+       docker build --build-arg CD_TAG="latest" --build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask --network=host -f Dockerfile
