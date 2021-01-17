@@ -12,7 +12,7 @@ variables:
   tag: '$(Build.BuildId)'
 
 jobs:
-- job: Build and Push Image
+- job: BuildandPushImage
   steps:
    - script: |
        docker build --build-arg CD_TAG="latest" --build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask --network=host -t digitalsolutionsnlnlcoviddatadashboard:latest -f Dockerfile .
