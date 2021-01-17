@@ -31,14 +31,16 @@ stages:
     - task: Docker@2
       displayName: Build an image
       inputs:
-        containerRegistry: '$(dockerRegistryServiceConnection)'
         command: 'build'
+        repository: '$(imageRepository)'
+        containerRegistry: '$(dockerRegistryServiceConnection)'
         Dockerfile: '**/Dockerfile'
-        tags: 'kpmgnlbigvwscovid19fewet01acr.azurecr.io/digitalsolutionsnlnlcoviddatadashboard:latest'
+        tags: '1.0'
         arguments: '--build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask --network=host'
     - task: Docker@2
       displayName: Push an image to container registry
       inputs:
+        command: 'push'
         containerRegistry: '$(dockerRegistryServiceConnection)'
         repository: '$(imageRepository)'
-        command: 'push'
+        tags: '1.0'
