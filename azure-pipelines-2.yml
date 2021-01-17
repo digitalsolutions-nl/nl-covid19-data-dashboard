@@ -42,4 +42,3 @@ stages:
         containerRegistry: '$(dockerRegistryServiceConnection)'
         repository: '$(imageRepository)'
         command: 'push'
-        tags: 'kpmgnlbigvwscovid19fewet01acr.azurecr.io/digitalsolutionsnlnlcoviddatadashboard:latest'
