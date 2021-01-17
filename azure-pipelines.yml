@@ -5,10 +5,16 @@ pool:
   vmImage: 'ubuntu-16.04'
   
 variables:
-  PIPELINE: 'innovationfactory.pit5'
+  # Container registry service connection established during pipeline creation
+  dockerRegistryServiceConnection: '4a5c5332-569e-4b6d-8376-c3d972e67bc9'
+  imageRepository: 'digitalsolutionsnlnlcoviddatadashboard'
+  containerRegistry: 'kpmgnlbigvwscovid19fewet01acr.azurecr.io'
+  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
+  tag: '$(Build.BuildId)'
 
 jobs:
-- job: BuildImage
+- job: Build and Push Image
   steps:
    - script: |
-       docker build --build-arg CD_TAG="latest" --build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask --network=host -f Dockerfile .
+       docker build --build-arg CD_TAG="latest" --build-arg NEXT_PUBLIC_SANITY_PROJECT_ID=5mog5ask --network=host -t digitalsolutionsnlnlcoviddatadashboard:latest -f Dockerfile .
+       docker push digitalsolutionsnlnlcoviddatadashboard:latest
