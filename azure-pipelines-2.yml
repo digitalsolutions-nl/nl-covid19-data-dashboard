@@ -46,7 +46,7 @@ stages:
         tags: '1.0'
 
 - stage: Scan Code
-  displayName: Scan code
+  displayName: Scancode
   jobs:  
   - job: Scan
     displayName: Scan
