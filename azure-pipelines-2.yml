@@ -67,3 +67,21 @@ stages:
     - task: SonarCloudPublish@1
       inputs:
         pollingTimeoutSec: '300'
+
+- stage: Deploy
+  displayName: Deploy
+  jobs:  
+  - job: Deploy
+    displayName: Deploy
+    pool:
+      vmImage: 'ubuntu-latest'
+    steps:
+    - task: AzureRmWebAppDeployment@4
+      inputs:
+        ConnectionType: 'AzureRM'
+        azureSubscription: 'COVID ADO SC'
+        appType: 'webAppContainer'
+        WebAppName: 'test-covid-webapp'
+        DockerNamespace: 'kpmgnlbigvwscovid19fewet01acr'
+        DockerRepository: 'digitalsolutionsnlnlcoviddatadashboard'
+        DockerImageTag: '1.0'
