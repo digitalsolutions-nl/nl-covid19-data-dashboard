@@ -58,9 +58,11 @@ stages:
       inputs:
         SonarCloud: 'covid19-dashboard'
         organization: 'innovationfactory-qa'
-        scannerMode: 'MSBuild'
-        projectKey: 'covid19-dashboard'
-        projectName: 'covid19-dashboard'
+        scannerMode: 'CLI'
+        configMode: 'manual'
+        cliProjectKey: 'covid19-dashboard'
+        cliProjectName: 'covid19-dashboard'
+        cliSources: '.'
     - task: SonarCloudAnalyze@1
     - task: SonarCloudPublish@1
       inputs:
