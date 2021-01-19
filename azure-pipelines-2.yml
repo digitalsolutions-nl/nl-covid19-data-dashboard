@@ -62,7 +62,7 @@ stages:
         configMode: 'manual'
         cliProjectKey: 'covid19-dashboard'
         cliProjectName: 'covid19-dashboard'
-        cliSources: '.'
+        cliSources: './packages/app/src/'
     - task: SonarCloudAnalyze@1
     - task: SonarCloudPublish@1
       inputs:
