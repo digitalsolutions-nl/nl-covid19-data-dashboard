@@ -45,7 +45,7 @@ stages:
         repository: '$(imageRepository)'
         tags: '1.0'
 
-- stage: Scan Code
+- stage: ScanCode
   displayName: Scancode
   jobs:  
   - job: Scan
