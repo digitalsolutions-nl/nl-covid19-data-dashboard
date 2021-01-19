@@ -44,3 +44,24 @@ stages:
         containerRegistry: '$(dockerRegistryServiceConnection)'
         repository: '$(imageRepository)'
         tags: '1.0'
+
+- stage: Scan Code
+  displayName: Scan code
+  jobs:  
+  - job: Scan
+    displayName: Scan
+    pool:
+      vmImage: 'ubuntu-latest'
+    steps:
+    - task: SonarCloudPrepare@1
+      displayName: Build an image
+      inputs:
+        SonarCloud: 'covid19-dashboard'
+        organization: 'innovationfactory-qa'
+        scannerMode: 'MSBuild'
+        projectKey: 'covid19-dashboard'
+        projectName: 'covid19-dashboard'
+    - task: SonarCloudAnalyze@1
+    - task: SonarCloudPublish@1
+      inputs:
+        pollingTimeoutSec: '300'
