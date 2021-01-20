@@ -81,7 +81,7 @@ stages:
         ConnectionType: 'AzureRM'
         azureSubscription: 'COVID ADO SC'
         appType: 'webAppContainer'
-        WebAppName: 'test-covid-webapp'
+        WebAppName: 'kpmgnl-big-vws-covid19-fe-we-t01-webapp'
         DockerNamespace: 'kpmgnlbigvwscovid19fewet01acr'
         DockerRepository: 'digitalsolutionsnlnlcoviddatadashboard'
         DockerImageTag: '1.0'
