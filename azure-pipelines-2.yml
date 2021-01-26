@@ -20,6 +20,29 @@ variables:
   vmImageName: 'ubuntu-latest'
 
 stages:
+- stage: ScanCode
+  displayName: Scancode
+  jobs:  
+  - job: Scan
+    displayName: Scan
+    pool:
+      vmImage: 'ubuntu-latest'
+    steps:
+    - task: SonarCloudPrepare@1
+      displayName: Build an image
+      inputs:
+        SonarCloud: 'covid19-dashboard'
+        organization: 'innovationfactory-qa'
+        scannerMode: 'CLI'
+        configMode: 'manual'
+        cliProjectKey: 'covid19-dashboard'
+        cliProjectName: 'covid19-dashboard'
+        cliSources: './packages/app/src/'
+    - task: SonarCloudAnalyze@1
+    - task: SonarCloudPublish@1
+      inputs:
+        pollingTimeoutSec: '300'
+        
 - stage: Build
   displayName: Build image
   jobs:  
@@ -44,29 +67,6 @@ stages:
         containerRegistry: '$(dockerRegistryServiceConnection)'
         repository: '$(imageRepository)'
         tags: '1.0'
-
-- stage: ScanCode
-  displayName: Scancode
-  jobs:  
-  - job: Scan
-    displayName: Scan
-    pool:
-      vmImage: 'ubuntu-latest'
-    steps:
-    - task: SonarCloudPrepare@1
-      displayName: Build an image
-      inputs:
-        SonarCloud: 'covid19-dashboard'
-        organization: 'innovationfactory-qa'
-        scannerMode: 'CLI'
-        configMode: 'manual'
-        cliProjectKey: 'covid19-dashboard'
-        cliProjectName: 'covid19-dashboard'
-        cliSources: './packages/app/src/'
-    - task: SonarCloudAnalyze@1
-    - task: SonarCloudPublish@1
-      inputs:
-        pollingTimeoutSec: '300'
 
 - stage: Deploy
   displayName: Deploy
