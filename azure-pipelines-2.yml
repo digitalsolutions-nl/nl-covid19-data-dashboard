@@ -29,7 +29,7 @@ stages:
       vmImage: 'ubuntu-latest'
     steps:
     - task: SonarCloudPrepare@1
-      displayName: Build an image
+      displayName: SonarCloudPrepare
       inputs:
         SonarCloud: 'covid19-dashboard'
         organization: 'innovationfactory-qa'
